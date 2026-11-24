@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://brandeis-home-auto-care.hr/sitemap.xml
